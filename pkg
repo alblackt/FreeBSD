@@ -1,0 +1,4 @@
+##Some info on Russian with urls there: http://www.opennet.ru/tips/info/2715.shtml
+
+#If you need to make packages from all compiled distrib from ports in "/usr/ports/distfiles" try this:
+pkg create -a -o /usr/ports/packages/All
